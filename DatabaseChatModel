@@ -1,0 +1,13 @@
+Chats
+    chatID:
+        participants: [
+            user1Email, 
+            user2Email]
+        messages:[
+            message[
+                id:
+                sender:
+                reciever:
+                message
+            ]
+        ]
