@@ -2,21 +2,13 @@ import firebase from 'firebase/app';
 import "firebase/auth";
 import "firebase/firestore";
 
-/*const firebaseConfig = {
-  apiKey: "AIzaSyDDgQgMDnX2_-hQ6NSTN6aeJlnTaXhhzfI",
-  authDomain: "messaging-app-1b108.firebaseapp.com",
-  projectId: "messaging-app-1b108",
-  storageBucket: "messaging-app-1b108.appspot.com",
-  messagingSenderId: "2684077809",
-  appId: "1:2684077809:web:ca8f075ab30636c6148b50"
-};*/
 const firebaseConfig = {
-  apiKey: "AIzaSyDnDc2Cz7lsRqyM7lY_HCCiqLpkYSkTerA",
-  authDomain: "signal-clone-e7d54.firebaseapp.com",
-  projectId: "signal-clone-e7d54",
-  storageBucket: "signal-clone-e7d54.appspot.com",
-  messagingSenderId: "590145994766",
-  appId: "1:590145994766:web:333af1aeee442362663c5f"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 let app;
