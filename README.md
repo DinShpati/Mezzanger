@@ -16,7 +16,7 @@
 
 #### INSTRUCTIONS
 ##### To download, go to the link below:
-`https://github.com/DinShpati/C195-scheduling-Application`
+`https://play.google.com/store/apps/details?id=com.dinshpati.Mezzage`
 
 ## Image
 ![](http://dinshpati.com/projectImgs/Mezzanger.png)
